@@ -16,12 +16,16 @@ The project provides a modern, clear, and highly readable interface for monitori
 - **Electrical grid**: dedicated section showing voltage (V), current (A), and frequency (Hz), each with one decimal place.  
 - **Optimized design**: separation of numeric values from units, large fonts for critical data, small fonts for titles and labels.  
 
+---
+
 ## 🛠️ Technologies
 
 - **ESPHome** for integration with Home Assistant and hardware control.  
 - **LVGL** for graphical rendering on the display.  
 - **ESP32-S3 with PSRAM** for performance and smooth updates.  
 - **Custom fonts** (OpenSans, Roboto Bold) with full diacritic support.  
+
+---
 
 ## ⚙️ Data Sources & Home Assistant Entities
 
@@ -46,7 +50,9 @@ The project provides a modern, clear, and highly readable interface for monitori
 - `sensor.power_meter_frequency` → Grid frequency  
 
 ### ☁️ Weather condition
-- `weather.forecast_home`  
+- `weather.forecast_home`
+
+---
 
 ## 📂 Fonts
 
