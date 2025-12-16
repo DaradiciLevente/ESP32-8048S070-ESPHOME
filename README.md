@@ -16,16 +16,12 @@ The project provides a modern, clear, and highly readable interface for monitori
 - **Electrical grid**: dedicated section showing voltage (V), current (A), and frequency (Hz), each with one decimal place.  
 - **Optimized design**: separation of numeric values from units, large fonts for critical data, small fonts for titles and labels.  
 
----
-
 ## 🛠️ Technologies
 
 - **ESPHome** for integration with Home Assistant and hardware control.  
 - **LVGL** for graphical rendering on the display.  
 - **ESP32-S3 with PSRAM** for performance and smooth updates.  
 - **Custom fonts** (OpenSans, Roboto Bold) with full diacritic support.  
-
----
 
 ## ⚙️ Data Sources & Home Assistant Entities
 
@@ -65,7 +61,6 @@ Copy them into your ESPHome configuration directory before compiling.
 
 ## 🚀 Installation & Usage
 
-```bash
 # Clone this repository
 git clone https://github.com/DaradiciLevente/ESP32-8048S070c-ESPHOME-HOME-ASSISTANT-DASHBOARD.git
 
