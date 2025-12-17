@@ -90,9 +90,6 @@ A demo video will be available soon on YouTube.
 [![Watch the video](https://img.youtube.com/vi/c-pyQ2oMEn4/hqdefault.jpg)](https://www.youtube.com/shorts/c-pyQ2oMEn4)
 
 
-[![Watch the video](https://img.youtube.com/vi/c-pyQ2oMEn4/maxresdefault.jpg)](https://www.youtube.com/shorts/c-pyQ2oMEn4)
-
-
 ---
 
 ## 📄 License
