@@ -86,11 +86,8 @@ Ensure all Home Assistant entities listed above are available
 ## 🎥 Demo Video
 
 A demo video will be available soon on YouTube.  
-👉 [[YouTube link](https://youtube.com/shorts/c-pyQ2oMEn4)] (to be added after publishing)
 
-https://youtube.com/shorts/c-pyQ2oMEn4
-
-Check out the demo video here: [YouTube Short](https://www.youtube.com/shorts/c-pyQ2oMEn4)
+[![Watch the video](https://img.youtube.com/vi/c-pyQ2oMEn4/maxresdefault.jpg)](https://www.youtube.com/shorts/c-pyQ2oMEn4)
 
 ---
 
