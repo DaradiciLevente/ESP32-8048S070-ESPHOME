@@ -82,6 +82,24 @@ Ensure all Home Assistant entities listed above are available
 
 ---
 
+🚀 Quick Start
+🐍 1. Install Python 3.11+
+Download for Windows: https://www.python.org/downloads/windows/
+Make sure to check “Add Python to PATH” during installation.
+
+📦 2. Install ESPHome
+```pip install esphome```
+
+📥 3. Clone this project
+```git clone https://github.com/DaradiciLevente/ESP32-8048S070c-ESPHOME-HOME-ASSISTANT-DASHBOARD.git```
+
+⚙️ 4. Edit dashboard.yaml
+Set your Wi‑Fi credentials and Home Assistant API encryption key.
+
+🔌 5. Flash & run (compile + upload + logs)
+```esphome run dashboard.yaml```
+
+---
 ## 📸 Screenshots
 
 ![IMG_20251216_213325006_HDR](https://github.com/user-attachments/assets/f508c554-762a-4351-b67d-01d055618fc6)
