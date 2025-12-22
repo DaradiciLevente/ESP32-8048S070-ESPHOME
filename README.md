@@ -83,6 +83,7 @@ Ensure all Home Assistant entities listed above are available
 ---
 
 🚀 Quick Start
+
 🐍 1. Install Python 3.11+
 Download for Windows: https://www.python.org/downloads/windows/
 Make sure to check “Add Python to PATH” during installation.
