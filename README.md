@@ -1,5 +1,10 @@
 # 📊 ESPHome Smart Energy Dashboard
 
+<p align="center">
+  <img src="images/logo.png" alt="ESP32 Dashboard Logo" width="200"/>
+</p>
+
+
 An advanced graphical dashboard for the **Sunton ESP32-S3 8048S070** 7" display, built with **ESPHome + LVGL** and integrated with **Home Assistant**.  
 The project provides a modern, clear, and highly readable interface for monitoring household energy consumption, photovoltaic production, inverter parameters, and environmental data.
 
