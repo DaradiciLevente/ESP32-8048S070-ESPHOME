@@ -55,12 +55,14 @@ output:
     frequency: 1220
     id: gpio_backlight_pwm
 
+    
 light:
   - platform: monochromatic
     output: gpio_backlight_pwm
     id: back_light
+    name: "Display Backlight"
     restore_mode: ALWAYS_ON
-
+      
 # --- Imaginea de fundal ---
 image:
   - file: images/dashboard_bg.png
