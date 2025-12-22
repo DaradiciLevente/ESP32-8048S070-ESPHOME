@@ -194,13 +194,14 @@ This makes the dashboard behave like a smart, presence‑aware control panel.
 
 ---
 
-🙏 Acknowledgements
+## 🙏 Acknowledgements
+
 This project would not have been possible without the excellent work of the open‑source community.
 A special thank‑you goes to the author of the following project:
 
-📘 Display Initialization & LVGL Setup  
+### 📘 Display Initialization & LVGL Setup  
 The display driver configuration and graphical initialization used in this dashboard are based on the outstanding work from:
-➡️ https://github.com/clowrey/esphome-sunton-esp32-8048s070c
+### ➡️ https://github.com/clowrey/esphome-sunton-esp32-8048s070c
 
 Their implementation made it significantly easier to integrate the 8048S070C 7" display into ESPHome, providing a clean, stable and well‑documented foundation.
 Huge thanks to the original author for sharing this work with the community.
