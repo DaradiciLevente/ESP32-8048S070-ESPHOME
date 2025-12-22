@@ -92,19 +92,19 @@ Download for Windows: https://www.python.org/downloads/windows/
 
 Make sure to check “Add Python to PATH” during installation.
 
-📦 2. Install ESPHome
+## 📦 2. Install ESPHome
 
 ```
 pip install esphome
 ```
 
-📥 3. Clone this project
+## 📥 3. Clone this project
 
 ```
 git clone https://github.com/DaradiciLevente/ESP32-8048S070c-ESPHOME-HOME-ASSISTANT-DASHBOARD.git
 ```
 
-⚙️ 4. Configure Wi‑Fi & API keys
+## ⚙️ 4. Configure Wi‑Fi & API keys
 Wi‑Fi credentials are stored in secrets.yaml: 
 
 ```
@@ -121,12 +121,15 @@ ota:
     password: "a07ce4750cc57b5360162ba12f209d3f"
 ```
 
-🔌 5. Flash & run (compile + upload + logs)
+## 🔌 5. Flash & run (compile + upload + logs)
 ```
 esphome run esp32-8048s070c-Dashboard-Final.yaml
 ```
 
-🏠 Adding the device to Home Assistant
+---
+
+## 🏠 Adding the device to Home Assistant
+
 Once the ESP32 boots and connects to Wi‑Fi:
 
 Open Home Assistant.
@@ -139,7 +142,9 @@ Click “Configure” and enter the same API password used in the YAML file.
 
 The dashboard will now appear as a device with entities.
 
-💡 Backlight Control (Switch Entity)
+---
+
+## 💡 Backlight Control (Switch Entity)
 
 This project exposes a switch entity in Home Assistant that controls the display backlight.
 
@@ -153,7 +158,9 @@ Manually toggle the screen from the HA dashboard
 
 Integrate it into automations, scenes, or scripts
 
-Example automation idea:
+---
+
+## Example automation idea:
 
 If any motion sensor in the room detects movement → turn on backlight
 
