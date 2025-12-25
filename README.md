@@ -91,7 +91,7 @@ Copy them into your ESPHome configuration directory before compiling.
 
 # 🚀 Quick Start
 
-Click the image to watch the video.
+Click on the image to play the video.
 
 [![Video demo](https://img.youtube.com/vi/CEPckzUROvE/hqdefault.jpg)](https://youtu.be/CEPckzUROvE)
 
