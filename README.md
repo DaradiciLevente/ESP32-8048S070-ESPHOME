@@ -233,6 +233,8 @@ The /Examples folder contains several minimal, easy‑to‑understand ESPHome co
 ![IMG_20260103_231212409](https://github.com/user-attachments/assets/09efed44-be9d-4a4f-8666-928b9abf99ad)
 
 The actual display looks noticeably better than in the attached photo.
+
+
 ---
 
 ## 🎥 Demo Video
