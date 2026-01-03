@@ -219,6 +219,12 @@ The /Examples folder contains several minimal, easy‑to‑understand ESPHome co
 
 ![IMG_20251216_213325006_HDR](https://github.com/user-attachments/assets/f508c554-762a-4351-b67d-01d055618fc6)
 
+Added the file esp32-8048s070c-Burgundy.yaml to introduce a new Burgundy-themed variant. 
+
+<img src="assets/burgundy.png" alt="Burgundy color" width="400"/>
+
+The actual display looks noticeably better than in the attached photo.
+
 ---
 
 ## 🎥 Demo Video
